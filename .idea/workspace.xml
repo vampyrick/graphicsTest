@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cd64771-f8f6-4940-a26c-64709944cd0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphAdjList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/text_scanner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/graphicsTest/Node.class" afterPath="$PROJECT_DIR$/out/production/graphicsTest/Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/graphicsTest/surface.class" afterPath="$PROJECT_DIR$/out/production/graphicsTest/surface.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Node.java" afterPath="$PROJECT_DIR$/src/Node.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,6 +106,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="vampyrick &lt;hamzah.jav@gmail.com&gt;" />
         <option value="Hamza" />
       </list>
     </option>
@@ -348,7 +345,7 @@
       <workItem from="1504889708475" duration="5502000" />
       <workItem from="1505061145817" duration="7876000" />
       <workItem from="1505085040981" duration="133000" />
-      <workItem from="1505136580730" duration="4340000" />
+      <workItem from="1505136580730" duration="4402000" />
     </task>
     <task id="LOCAL-00001" summary="Amend Commit test">
       <created>1503771619628</created>
@@ -378,11 +375,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505072828527</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="After course era tutorial to make graphs and relationships.">
+      <created>1505143163293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505143163293</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39723000" />
+    <option name="totallyTimeSpent" value="39785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -428,7 +432,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Amend Commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amend Commit test" />
+    <MESSAGE value="After course era tutorial to make graphs and relationships." />
+    <option name="LAST_COMMIT_MESSAGE" value="After course era tutorial to make graphs and relationships." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
