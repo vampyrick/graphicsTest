@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cd64771-f8f6-4940-a26c-64709944cd0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/graphicsTest/Node.class" afterPath="$PROJECT_DIR$/out/production/graphicsTest/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/graphicsTest/surface.class" afterPath="$PROJECT_DIR$/out/production/graphicsTest/surface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/graphicsTest/BasicEx.class" afterPath="$PROJECT_DIR$/out/production/graphicsTest/BasicEx.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BasicEx.java" afterPath="$PROJECT_DIR$/src/BasicEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Node.java" afterPath="$PROJECT_DIR$/src/Node.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/surface.java" afterPath="$PROJECT_DIR$/src/surface.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="surface.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="surface.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/surface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="95" column="98" lean-forward="false" selection-start-line="95" selection-start-column="98" selection-end-line="95" selection-end-column="98" />
+            <state relative-caret-position="1510">
+              <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BasicEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="91">
               <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -146,8 +142,8 @@
         <option value="$PROJECT_DIR$/src/GraphLoader.java" />
         <option value="$PROJECT_DIR$/src/Neighbor.java" />
         <option value="$PROJECT_DIR$/src/Node.java" />
-        <option value="$PROJECT_DIR$/src/surface.java" />
         <option value="$PROJECT_DIR$/src/BasicEx.java" />
+        <option value="$PROJECT_DIR$/src/surface.java" />
       </list>
     </option>
   </component>
@@ -373,7 +369,7 @@
       <workItem from="1506089811082" duration="9218000" />
       <workItem from="1506253335140" duration="472000" />
       <workItem from="1506254055706" duration="4548000" />
-      <workItem from="1506778903146" duration="13207000" />
+      <workItem from="1506778903146" duration="14535000" />
     </task>
     <task id="LOCAL-00001" summary="Amend Commit test">
       <created>1503771619628</created>
@@ -438,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506253787758</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Node selection completed !!!">
+      <created>1506793314507</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1506793314507</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87957000" />
+    <option name="totallyTimeSpent" value="89285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -492,7 +495,8 @@
     <MESSAGE value="16_SEP_2017" />
     <MESSAGE value="Commit for labels array list working" />
     <MESSAGE value="Commit before shape selection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit before shape selection" />
+    <MESSAGE value="Node selection completed !!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Node selection completed !!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -878,6 +882,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -888,18 +902,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/surface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="95" column="98" lean-forward="false" selection-start-line="95" selection-start-column="98" selection-end-line="95" selection-end-column="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="1510">
+          <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
